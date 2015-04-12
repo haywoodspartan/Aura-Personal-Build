@@ -1,0 +1,66 @@
+4/12/2015 1:21:48 PM [Warning] - Using the default inter server password is risky, please change it in 'inter.conf'.
+4/12/2015 1:21:48 PM [Info] - Initializing database...
+4/12/2015 1:21:48 PM [Info] - Loading data...
+4/12/2015 1:21:48 PM [Info] -   done loading 20 entries from ancient_drops.txt
+4/12/2015 1:21:49 PM [Info] -   done loading 380 entries from races.txt
+4/12/2015 1:21:49 PM [Info] -   done loading 3 entries from stats_base.txt
+4/12/2015 1:21:49 PM [Info] -   done loading 3 entries from stats_levelup.txt
+4/12/2015 1:21:49 PM [Info] -   done loading 3 entries from stats_ageup.txt
+4/12/2015 1:21:49 PM [Info] -   done loading 55 entries from motions.txt
+4/12/2015 1:21:49 PM [Info] -   done loading 9 entries from charcards.txt
+4/12/2015 1:21:49 PM [Info] -   done loading 112 entries from colormap.dat
+4/12/2015 1:21:49 PM [Info] -   done loading 14608 entries from items.txt
+4/12/2015 1:21:49 PM [Info] -   done loading 28 entries from chairs.txt
+4/12/2015 1:21:49 PM [Info] -   done loading 545 entries from skills.txt
+4/12/2015 1:21:49 PM [Info] -   done loading 387 entries from regions.txt
+4/12/2015 1:21:50 PM [Info] -   done loading 387 entries from regioninfo.dat
+4/12/2015 1:21:50 PM [Info] -   done loading 607 entries from shamala.txt
+4/12/2015 1:21:50 PM [Info] -   done loading 3 entries from prop_drops.txt
+4/12/2015 1:21:50 PM [Info] -   done loading 200 entries from exp.txt
+4/12/2015 1:21:50 PM [Info] -   done loading 278 entries from pets.txt
+4/12/2015 1:21:50 PM [Info] -   done loading 13 entries from weathertables.txt
+4/12/2015 1:21:50 PM [Info] -   done loading 27 entries from weather.txt
+4/12/2015 1:21:50 PM [Info] -   done loading 3822 entries from keywords.txt
+4/12/2015 1:21:50 PM [Info] -   done loading 778 entries from titles.txt
+4/12/2015 1:21:50 PM [Info] -   done loading 2091 entries from itemupgrades.txt
+4/12/2015 1:21:50 PM [Info] -   done loading 6101 entries from props.txt
+4/12/2015 1:21:50 PM [Info] -   done loading 156 entries from collecting.txt
+4/12/2015 1:21:50 PM [Info] - Loading localization (us)...
+4/12/2015 1:21:50 PM [Info] - Initializing world...
+4/12/2015 1:21:51 PM [Info] -   done loading 387 regions.
+4/12/2015 1:21:51 PM [Info] - Loading AI scripts...
+4/12/2015 1:21:51 PM [Info] - Done loading AI scripts.
+4/12/2015 1:21:51 PM [Info] - Loading item scripts...
+4/12/2015 1:21:51 PM [Info] - Done loading item scripts.
+4/12/2015 1:21:51 PM [Info] - Loading scripts, this might take a few minutes...
+4/12/2015 1:21:52 PM 
+4/12/2015 1:21:52 PM [Info] - Done loading 98 scripts (of 98).
+4/12/2015 1:21:52 PM [Info] - Spawning creatures...
+4/12/2015 1:21:52 PM [Info] - Done spawning 99 creatures.
+4/12/2015 1:21:52 PM [Info] - Loading skill handlers...
+4/12/2015 1:21:52 PM [Info] - Done loading 29 skill handlers.
+4/12/2015 1:21:52 PM [Status] - Server ready, listening on 0.0.0.0:11022.
+4/12/2015 1:21:52 PM 
+4/12/2015 1:21:52 PM [Info] - Trying to connect to login server at 127.0.0.1:11000...
+4/12/2015 1:21:52 PM [Info] - Connection to login server at '127.0.0.1:11000' established.
+4/12/2015 1:21:52 PM 
+4/12/2015 1:21:52 PM [Info] - Type 'help' for a list of console commands.
+4/12/2015 1:22:01 PM [Info] - Connection established from '98.166.158.42:51766.
+4/12/2015 1:22:01 PM [Status] - Creatures currently in region 1: 108
+4/12/2015 1:25:00 PM [Info] - Saved global script variables.
+4/12/2015 1:30:00 PM [Info] - Saved global script variables.
+4/12/2015 1:35:00 PM [Info] - Saved global script variables.
+4/12/2015 1:40:00 PM [Info] - Saved global script variables.
+4/12/2015 1:45:00 PM [Info] - Saved global script variables.
+4/12/2015 1:50:00 PM [Info] - Saved global script variables.
+4/12/2015 1:55:00 PM [Info] - Saved global script variables.
+4/12/2015 2:00:00 PM [Info] - Saved global script variables.
+4/12/2015 2:05:00 PM [Info] - Saved global script variables.
+4/12/2015 2:10:00 PM [Info] - Saved global script variables.
+4/12/2015 2:15:00 PM [Info] - Saved global script variables.
+4/12/2015 2:20:00 PM [Info] - Saved global script variables.
+4/12/2015 2:25:00 PM [Info] - Saved global script variables.
+4/12/2015 2:30:00 PM [Info] - Saved global script variables.
+4/12/2015 2:30:41 PM [Info] - 'root' is closing the connection. Saving...
+4/12/2015 2:30:41 PM [Status] - Creatures currently in region 1: 107
+4/12/2015 2:30:41 PM [Info] - Connection closed from '98.166.158.42:51766.

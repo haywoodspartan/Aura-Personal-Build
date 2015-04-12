@@ -8,3 +8,7 @@ C:\Users\Administrator\Desktop\aura-master\Hell\bin\Release\Mabi.pdb
 C:\Users\Administrator\Desktop\aura-master\Hell\src\Mabi\obj\Release\Mabi.dll
 C:\Users\Administrator\Desktop\aura-master\Hell\src\Mabi\obj\Release\Mabi.pdb
 C:\Users\Administrator\Desktop\aura-master\Hell\src\Mabi\obj\Release\Mabi.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\Aura-Personal\bin\Release\Mabi.dll
+C:\Users\Administrator\Documents\GitHub\Aura-Personal\bin\Release\Mabi.pdb
+C:\Users\Administrator\Documents\GitHub\Aura-Personal\src\Mabi\obj\Release\Mabi.dll
+C:\Users\Administrator\Documents\GitHub\Aura-Personal\src\Mabi\obj\Release\Mabi.pdb

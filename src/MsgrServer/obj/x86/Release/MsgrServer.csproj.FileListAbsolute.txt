@@ -9,3 +9,9 @@ C:\Users\Administrator\Desktop\aura-master\Hell\bin\Release\MsgrServer.pdb
 C:\Users\Administrator\Desktop\aura-master\Hell\src\MsgrServer\obj\x86\Release\MsgrServer.csprojResolveAssemblyReference.cache
 C:\Users\Administrator\Desktop\aura-master\Hell\src\MsgrServer\obj\x86\Release\MsgrServer.exe
 C:\Users\Administrator\Desktop\aura-master\Hell\src\MsgrServer\obj\x86\Release\MsgrServer.pdb
+C:\Users\Administrator\Documents\GitHub\Aura-Personal\bin\Release\MsgrServer.exe.config
+C:\Users\Administrator\Documents\GitHub\Aura-Personal\bin\Release\MsgrServer.exe
+C:\Users\Administrator\Documents\GitHub\Aura-Personal\bin\Release\MsgrServer.pdb
+C:\Users\Administrator\Documents\GitHub\Aura-Personal\src\MsgrServer\obj\x86\Release\MsgrServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\Aura-Personal\src\MsgrServer\obj\x86\Release\MsgrServer.exe
+C:\Users\Administrator\Documents\GitHub\Aura-Personal\src\MsgrServer\obj\x86\Release\MsgrServer.pdb

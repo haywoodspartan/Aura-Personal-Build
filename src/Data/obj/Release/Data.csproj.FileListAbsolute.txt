@@ -16,3 +16,12 @@ C:\Users\Administrator\Desktop\aura-master\Hell\src\Data\bin\Release\Mabi.pdb
 C:\Users\Administrator\Desktop\aura-master\Hell\src\Data\obj\Release\Data.csprojResolveAssemblyReference.cache
 C:\Users\Administrator\Desktop\aura-master\Hell\src\Data\obj\Release\Data.dll
 C:\Users\Administrator\Desktop\aura-master\Hell\src\Data\obj\Release\Data.pdb
+C:\Users\Administrator\Documents\GitHub\Aura-Personal\src\Data\bin\Release\Data.dll
+C:\Users\Administrator\Documents\GitHub\Aura-Personal\src\Data\bin\Release\Data.pdb
+C:\Users\Administrator\Documents\GitHub\Aura-Personal\src\Data\bin\Release\Mabi.dll
+C:\Users\Administrator\Documents\GitHub\Aura-Personal\src\Data\bin\Release\MsgPack.dll
+C:\Users\Administrator\Documents\GitHub\Aura-Personal\src\Data\bin\Release\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\GitHub\Aura-Personal\src\Data\bin\Release\Mabi.pdb
+C:\Users\Administrator\Documents\GitHub\Aura-Personal\src\Data\obj\Release\Data.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\Aura-Personal\src\Data\obj\Release\Data.dll
+C:\Users\Administrator\Documents\GitHub\Aura-Personal\src\Data\obj\Release\Data.pdb

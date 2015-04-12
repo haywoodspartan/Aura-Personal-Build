@@ -19,7 +19,7 @@ using System.Threading.Tasks;
 namespace Aura.Channel.Skills.Base
 {
 	/// <summary>
-	/// Base for the 3 Bolt Magic Skills.
+	/// Base for the 3 Intermediate Magic Skills.
 	/// </summary>
 	public abstract class IntMagic : IPreparable, IReadyable, ICombatSkill, ICompletable, ICancelable, IInitiableSkillHandler
 	{
@@ -46,7 +46,7 @@ namespace Aura.Channel.Skills.Base
 		/// <summary>
 		/// Returns whether the skill can be blocked with Defense.
 		/// </summary>
-		protected virtual bool Defendable { get { return true; } }
+		protected virtual bool Defendable { get { return false; } }
 
 		/// <summary>
 		/// ID of the skill, used in training.
@@ -57,6 +57,11 @@ namespace Aura.Channel.Skills.Base
 		/// String used in effect packets.
 		/// </summary>
 		protected abstract string EffectSkillName { get; }
+
+        /// <summary>
+        /// String used in Explosion Radius
+        /// </summary>
+        protected abstract string EffectExplosionRadius { get; }
 
 		/// <summary>
 		/// Weapon tag that's looked for in range calculation.
@@ -109,18 +114,6 @@ namespace Aura.Channel.Skills.Base
 			Send.SkillReady(creature, skill.Info.Id);
 
 			return true;
-		}
-
-		/// <summary>
-		/// Completes skill usage, ready is called automatically again if
-		/// there are stacks left.
-		/// </summary>
-		/// <param name="creature"></param>
-		/// <param name="skill"></param>
-		/// <param name="packet"></param>
-		public virtual void Complete(Creature creature, Skill skill, Packet packet)
-		{
-			Send.SkillComplete(creature, skill.Info.Id);
 		}
 
 		/// <summary>

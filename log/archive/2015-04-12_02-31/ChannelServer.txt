@@ -1,0 +1,81 @@
+4/12/2015 2:31:07 PM [Warning] - Using the default inter server password is risky, please change it in 'inter.conf'.
+4/12/2015 2:31:07 PM [Info] - Initializing database...
+4/12/2015 2:31:07 PM [Info] - Loading data...
+4/12/2015 2:31:07 PM [Info] -   done loading 20 entries from ancient_drops.txt
+4/12/2015 2:31:07 PM [Warning] - system/db/races.txt: Missing mandatory value 'critical', in 
+{
+  "id": 2,
+  "name": "Morrighan",
+  "group": "morrighan/none",
+  "tags": "/morrighan/",
+  "gender": 0,
+  "vehicleType": 0,
+  "runSpeedFactor": 1,
+  "state": 2684354560,
+  "invWidth": 6,
+  "invHeight": 10,
+  "attackMin": 0,
+  "attackMax": 0,
+  "range": 170,
+  "attackSpeed": 2,
+  "knockCount": 2,
+  "crtical": 0,
+  "criticalRate": 0,
+  "splashRadius": 204,
+  "splashAngle": 60,
+  "splashDamage": 0,
+  "stand": 0,
+  "ai": "none",
+  "color1": 8421504,
+  "color2": 8421504,
+  "color3": 8421504,
+  "size": 1.0,
+  "cp": 100000.0,
+  "life": 1500,
+  "defense": 1500,
+  "protection": 1500.0,
+  "element": 0
+}
+4/12/2015 2:31:07 PM [Info] -   done loading 380 entries from races.txt
+4/12/2015 2:31:07 PM [Info] -   done loading 3 entries from stats_base.txt
+4/12/2015 2:31:07 PM [Info] -   done loading 3 entries from stats_levelup.txt
+4/12/2015 2:31:07 PM [Info] -   done loading 3 entries from stats_ageup.txt
+4/12/2015 2:31:07 PM [Info] -   done loading 55 entries from motions.txt
+4/12/2015 2:31:07 PM [Info] -   done loading 9 entries from charcards.txt
+4/12/2015 2:31:07 PM [Info] -   done loading 112 entries from colormap.dat
+4/12/2015 2:31:08 PM [Info] -   done loading 14608 entries from items.txt
+4/12/2015 2:31:08 PM [Info] -   done loading 28 entries from chairs.txt
+4/12/2015 2:31:08 PM [Info] -   done loading 545 entries from skills.txt
+4/12/2015 2:31:08 PM [Info] -   done loading 387 entries from regions.txt
+4/12/2015 2:31:08 PM [Info] -   done loading 387 entries from regioninfo.dat
+4/12/2015 2:31:08 PM [Info] -   done loading 607 entries from shamala.txt
+4/12/2015 2:31:08 PM [Info] -   done loading 3 entries from prop_drops.txt
+4/12/2015 2:31:08 PM [Info] -   done loading 200 entries from exp.txt
+4/12/2015 2:31:08 PM [Info] -   done loading 278 entries from pets.txt
+4/12/2015 2:31:08 PM [Info] -   done loading 13 entries from weathertables.txt
+4/12/2015 2:31:08 PM [Info] -   done loading 27 entries from weather.txt
+4/12/2015 2:31:08 PM [Info] -   done loading 3822 entries from keywords.txt
+4/12/2015 2:31:08 PM [Info] -   done loading 778 entries from titles.txt
+4/12/2015 2:31:08 PM [Info] -   done loading 2091 entries from itemupgrades.txt
+4/12/2015 2:31:08 PM [Info] -   done loading 6101 entries from props.txt
+4/12/2015 2:31:08 PM [Info] -   done loading 156 entries from collecting.txt
+4/12/2015 2:31:08 PM [Info] - Loading localization (us)...
+4/12/2015 2:31:08 PM [Info] - Initializing world...
+4/12/2015 2:31:09 PM [Info] -   done loading 387 regions.
+4/12/2015 2:31:09 PM [Info] - Loading AI scripts...
+4/12/2015 2:31:09 PM [Info] - Done loading AI scripts.
+4/12/2015 2:31:09 PM [Info] - Loading item scripts...
+4/12/2015 2:31:10 PM [Info] - Done loading item scripts.
+4/12/2015 2:31:10 PM [Info] - Loading scripts, this might take a few minutes...
+4/12/2015 2:31:10 PM 
+4/12/2015 2:31:10 PM [Info] - Done loading 98 scripts (of 98).
+4/12/2015 2:31:10 PM [Info] - Spawning creatures...
+4/12/2015 2:31:10 PM [Info] - Done spawning 99 creatures.
+4/12/2015 2:31:10 PM [Info] - Loading skill handlers...
+4/12/2015 2:31:10 PM [Info] - Done loading 29 skill handlers.
+4/12/2015 2:31:10 PM [Status] - Server ready, listening on 0.0.0.0:11022.
+4/12/2015 2:31:10 PM 
+4/12/2015 2:31:10 PM [Info] - Trying to connect to login server at 127.0.0.1:11000...
+4/12/2015 2:31:11 PM [Info] - Connection to login server at '127.0.0.1:11000' established.
+4/12/2015 2:31:11 PM 
+4/12/2015 2:31:11 PM [Info] - Type 'help' for a list of console commands.

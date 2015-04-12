@@ -1,0 +1,21 @@
+4/12/2015 12:09:43 PM [Warning] - Using the default inter server password is risky, please change it in 'inter.conf'.
+4/12/2015 12:09:43 PM [Info] - Initializing database...
+4/12/2015 12:09:43 PM [Info] - Checking for updates...
+4/12/2015 12:09:43 PM [Info] - Loading data...
+4/12/2015 12:09:44 PM [Info] -   done loading 20 entries from ancient_drops.txt
+4/12/2015 12:09:44 PM [Info] -   done loading 380 entries from races.txt
+4/12/2015 12:09:44 PM [Info] -   done loading 3 entries from stats_base.txt
+4/12/2015 12:09:44 PM [Info] -   done loading 9 entries from charcards.txt
+4/12/2015 12:09:44 PM [Info] -   done loading 112 entries from colormap.dat
+4/12/2015 12:09:44 PM [Info] -   done loading 14608 entries from items.txt
+4/12/2015 12:09:44 PM [Info] -   done loading 28 entries from chairs.txt
+4/12/2015 12:09:44 PM [Info] -   done loading 278 entries from pets.txt
+4/12/2015 12:09:44 PM [Info] - Loading localization (us)...
+4/12/2015 12:09:44 PM [Info] - Loading Web API...
+4/12/2015 12:09:44 PM [Error] - Failed to load Web API, port already in use?
+4/12/2015 12:09:44 PM [Error] - Unable to set up socket; perhaps you're already running a server?
+4/12/2015 12:09:44 PM [Exception] - System.Net.Sockets.SocketException (0x80004005): Only one usage of each socket address (protocol/network address/port) is normally permitted
+   at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at Aura.Shared.Network.BaseServer`1.Start(IPEndPoint endPoint) in c:\Users\Administrator\Desktop\aura-master\Hell\src\Shared\Network\BaseServer.cs:line 80
+4/12/2015 12:09:44 PM [Info] - Press Enter to exit.

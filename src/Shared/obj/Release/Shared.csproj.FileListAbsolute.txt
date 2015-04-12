@@ -8,3 +8,8 @@ C:\Users\Administrator\Desktop\aura-master\Hell\bin\Release\Shared.pdb
 C:\Users\Administrator\Desktop\aura-master\Hell\src\Shared\obj\Release\Shared.csprojResolveAssemblyReference.cache
 C:\Users\Administrator\Desktop\aura-master\Hell\src\Shared\obj\Release\Shared.dll
 C:\Users\Administrator\Desktop\aura-master\Hell\src\Shared\obj\Release\Shared.pdb
+C:\Users\Administrator\Documents\GitHub\Aura-Personal\bin\Release\Shared.dll
+C:\Users\Administrator\Documents\GitHub\Aura-Personal\bin\Release\Shared.pdb
+C:\Users\Administrator\Documents\GitHub\Aura-Personal\src\Shared\obj\Release\Shared.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\Aura-Personal\src\Shared\obj\Release\Shared.dll
+C:\Users\Administrator\Documents\GitHub\Aura-Personal\src\Shared\obj\Release\Shared.pdb
