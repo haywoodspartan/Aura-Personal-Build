@@ -1,0 +1,10 @@
+C:\Users\CJSPC\aura-master\aura-master\bin\Release\Shared.dll
+C:\Users\CJSPC\aura-master\aura-master\bin\Release\Shared.pdb
+C:\Users\CJSPC\aura-master\aura-master\src\Shared\obj\Release\Shared.csprojResolveAssemblyReference.cache
+C:\Users\CJSPC\aura-master\aura-master\src\Shared\obj\Release\Shared.dll
+C:\Users\CJSPC\aura-master\aura-master\src\Shared\obj\Release\Shared.pdb
+C:\Users\Administrator\Desktop\aura-master\Hell\bin\Release\Shared.dll
+C:\Users\Administrator\Desktop\aura-master\Hell\bin\Release\Shared.pdb
+C:\Users\Administrator\Desktop\aura-master\Hell\src\Shared\obj\Release\Shared.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\aura-master\Hell\src\Shared\obj\Release\Shared.dll
+C:\Users\Administrator\Desktop\aura-master\Hell\src\Shared\obj\Release\Shared.pdb

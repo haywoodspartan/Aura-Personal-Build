@@ -1,0 +1,195 @@
+4/12/2015 3:04:04 AM [Warning] - Using the default inter server password is risky, please change it in 'inter.conf'.
+4/12/2015 3:04:04 AM [Info] - Initializing database...
+4/12/2015 3:04:04 AM [Info] - Loading data...
+4/12/2015 3:04:04 AM [Info] -   done loading 20 entries from ancient_drops.txt
+4/12/2015 3:04:04 AM [Info] -   done loading 380 entries from races.txt
+4/12/2015 3:04:04 AM [Info] -   done loading 3 entries from stats_base.txt
+4/12/2015 3:04:04 AM [Info] -   done loading 3 entries from stats_levelup.txt
+4/12/2015 3:04:04 AM [Info] -   done loading 3 entries from stats_ageup.txt
+4/12/2015 3:04:04 AM [Info] -   done loading 55 entries from motions.txt
+4/12/2015 3:04:04 AM [Info] -   done loading 9 entries from charcards.txt
+4/12/2015 3:04:04 AM [Info] -   done loading 112 entries from colormap.dat
+4/12/2015 3:04:05 AM [Info] -   done loading 14608 entries from items.txt
+4/12/2015 3:04:05 AM [Info] -   done loading 28 entries from chairs.txt
+4/12/2015 3:04:05 AM [Info] -   done loading 545 entries from skills.txt
+4/12/2015 3:04:05 AM [Info] -   done loading 387 entries from regions.txt
+4/12/2015 3:04:05 AM [Info] -   done loading 387 entries from regioninfo.dat
+4/12/2015 3:04:05 AM [Info] -   done loading 607 entries from shamala.txt
+4/12/2015 3:04:05 AM [Info] -   done loading 3 entries from prop_drops.txt
+4/12/2015 3:04:05 AM [Info] -   done loading 200 entries from exp.txt
+4/12/2015 3:04:05 AM [Info] -   done loading 278 entries from pets.txt
+4/12/2015 3:04:05 AM [Info] -   done loading 13 entries from weathertables.txt
+4/12/2015 3:04:05 AM [Info] -   done loading 27 entries from weather.txt
+4/12/2015 3:04:05 AM [Info] -   done loading 3822 entries from keywords.txt
+4/12/2015 3:04:05 AM [Info] -   done loading 778 entries from titles.txt
+4/12/2015 3:04:05 AM [Info] -   done loading 2091 entries from itemupgrades.txt
+4/12/2015 3:04:05 AM [Info] -   done loading 6101 entries from props.txt
+4/12/2015 3:04:05 AM [Info] -   done loading 156 entries from collecting.txt
+4/12/2015 3:04:05 AM [Info] - Loading localization (us)...
+4/12/2015 3:04:05 AM [Info] - Initializing world...
+4/12/2015 3:04:06 AM [Info] -   done loading 387 regions.
+4/12/2015 3:04:06 AM [Info] - Loading AI scripts...
+4/12/2015 3:04:06 AM [Info] - Done loading AI scripts.
+4/12/2015 3:04:06 AM [Info] - Loading item scripts...
+4/12/2015 3:04:07 AM [Info] - Done loading item scripts.
+4/12/2015 3:04:07 AM [Info] - Loading scripts, this might take a few minutes...
+4/12/2015 3:04:07 AM 
+4/12/2015 3:04:07 AM [Info] - Done loading 98 scripts (of 98).
+4/12/2015 3:04:07 AM [Info] - Spawning creatures...
+4/12/2015 3:04:07 AM [Info] - Done spawning 99 creatures.
+4/12/2015 3:04:07 AM [Info] - Loading skill handlers...
+4/12/2015 3:04:07 AM [Info] - Done loading 28 skill handlers.
+4/12/2015 3:04:07 AM [Status] - Server ready, listening on 0.0.0.0:11022.
+4/12/2015 3:04:07 AM 
+4/12/2015 3:04:07 AM [Info] - Trying to connect to login server at 127.0.0.1:11000...
+4/12/2015 3:04:08 AM [Info] - Connection to login server at '127.0.0.1:11000' established.
+4/12/2015 3:04:08 AM 
+4/12/2015 3:04:08 AM [Info] - Type 'help' for a list of console commands.
+4/12/2015 3:08:00 AM [Info] - Saved global script variables.
+4/12/2015 3:13:00 AM [Info] - Saved global script variables.
+4/12/2015 3:18:00 AM [Info] - Saved global script variables.
+4/12/2015 3:23:00 AM [Info] - Saved global script variables.
+4/12/2015 3:28:00 AM [Info] - Saved global script variables.
+4/12/2015 3:33:00 AM [Info] - Saved global script variables.
+4/12/2015 3:38:00 AM [Info] - Saved global script variables.
+4/12/2015 3:43:00 AM [Info] - Saved global script variables.
+4/12/2015 3:48:00 AM [Info] - Saved global script variables.
+4/12/2015 3:53:00 AM [Info] - Saved global script variables.
+4/12/2015 3:58:00 AM [Info] - Saved global script variables.
+4/12/2015 4:03:00 AM [Info] - Saved global script variables.
+4/12/2015 4:08:00 AM [Info] - Saved global script variables.
+4/12/2015 4:13:00 AM [Info] - Saved global script variables.
+4/12/2015 4:18:00 AM [Info] - Saved global script variables.
+4/12/2015 4:23:00 AM [Info] - Saved global script variables.
+4/12/2015 4:28:00 AM [Info] - Saved global script variables.
+4/12/2015 4:33:00 AM [Info] - Saved global script variables.
+4/12/2015 4:38:00 AM [Info] - Saved global script variables.
+4/12/2015 4:43:00 AM [Info] - Saved global script variables.
+4/12/2015 4:48:00 AM [Info] - Saved global script variables.
+4/12/2015 4:53:00 AM [Info] - Saved global script variables.
+4/12/2015 4:58:00 AM [Info] - Saved global script variables.
+4/12/2015 5:03:00 AM [Info] - Saved global script variables.
+4/12/2015 5:08:00 AM [Info] - Saved global script variables.
+4/12/2015 5:13:00 AM [Info] - Saved global script variables.
+4/12/2015 5:18:00 AM [Info] - Saved global script variables.
+4/12/2015 5:23:00 AM [Info] - Saved global script variables.
+4/12/2015 5:28:00 AM [Info] - Saved global script variables.
+4/12/2015 5:33:00 AM [Info] - Saved global script variables.
+4/12/2015 5:38:00 AM [Info] - Saved global script variables.
+4/12/2015 5:43:00 AM [Info] - Saved global script variables.
+4/12/2015 5:48:00 AM [Info] - Saved global script variables.
+4/12/2015 5:53:00 AM [Info] - Saved global script variables.
+4/12/2015 5:58:00 AM [Info] - Saved global script variables.
+4/12/2015 6:03:00 AM [Info] - Saved global script variables.
+4/12/2015 6:08:00 AM [Info] - Saved global script variables.
+4/12/2015 6:13:00 AM [Info] - Saved global script variables.
+4/12/2015 6:18:00 AM [Info] - Saved global script variables.
+4/12/2015 6:23:00 AM [Info] - Saved global script variables.
+4/12/2015 6:28:00 AM [Info] - Saved global script variables.
+4/12/2015 6:33:00 AM [Info] - Saved global script variables.
+4/12/2015 6:38:00 AM [Info] - Saved global script variables.
+4/12/2015 6:43:00 AM [Info] - Saved global script variables.
+4/12/2015 6:48:00 AM [Info] - Saved global script variables.
+4/12/2015 6:53:00 AM [Info] - Saved global script variables.
+4/12/2015 6:58:00 AM [Info] - Saved global script variables.
+4/12/2015 7:03:00 AM [Info] - Saved global script variables.
+4/12/2015 7:08:00 AM [Info] - Saved global script variables.
+4/12/2015 7:13:00 AM [Info] - Saved global script variables.
+4/12/2015 7:18:00 AM [Info] - Saved global script variables.
+4/12/2015 7:23:00 AM [Info] - Saved global script variables.
+4/12/2015 7:28:00 AM [Info] - Saved global script variables.
+4/12/2015 7:33:00 AM [Info] - Saved global script variables.
+4/12/2015 7:38:00 AM [Info] - Saved global script variables.
+4/12/2015 7:43:00 AM [Info] - Saved global script variables.
+4/12/2015 7:48:00 AM [Info] - Saved global script variables.
+4/12/2015 7:53:00 AM [Info] - Saved global script variables.
+4/12/2015 7:58:00 AM [Info] - Saved global script variables.
+4/12/2015 8:03:00 AM [Info] - Saved global script variables.
+4/12/2015 8:08:00 AM [Info] - Saved global script variables.
+4/12/2015 8:13:00 AM [Info] - Saved global script variables.
+4/12/2015 8:18:00 AM [Info] - Saved global script variables.
+4/12/2015 8:23:00 AM [Info] - Saved global script variables.
+4/12/2015 8:28:00 AM [Info] - Saved global script variables.
+4/12/2015 8:33:00 AM [Info] - Saved global script variables.
+4/12/2015 8:38:00 AM [Info] - Saved global script variables.
+4/12/2015 8:43:00 AM [Info] - Saved global script variables.
+4/12/2015 8:48:00 AM [Info] - Saved global script variables.
+4/12/2015 8:53:00 AM [Info] - Saved global script variables.
+4/12/2015 8:58:00 AM [Info] - Saved global script variables.
+4/12/2015 9:03:00 AM [Info] - Saved global script variables.
+4/12/2015 9:08:00 AM [Info] - Saved global script variables.
+4/12/2015 9:13:00 AM [Info] - Saved global script variables.
+4/12/2015 9:18:00 AM [Info] - Saved global script variables.
+4/12/2015 9:23:00 AM [Info] - Saved global script variables.
+4/12/2015 9:28:00 AM [Info] - Saved global script variables.
+4/12/2015 9:33:00 AM [Info] - Saved global script variables.
+4/12/2015 9:38:00 AM [Info] - Saved global script variables.
+4/12/2015 9:43:00 AM [Info] - Saved global script variables.
+4/12/2015 9:48:00 AM [Info] - Saved global script variables.
+4/12/2015 9:53:00 AM [Info] - Saved global script variables.
+4/12/2015 9:58:00 AM [Info] - Saved global script variables.
+4/12/2015 10:03:00 AM [Info] - Saved global script variables.
+4/12/2015 10:08:00 AM [Info] - Saved global script variables.
+4/12/2015 10:13:00 AM [Info] - Saved global script variables.
+4/12/2015 10:18:00 AM [Info] - Saved global script variables.
+4/12/2015 10:23:00 AM [Info] - Saved global script variables.
+4/12/2015 10:28:00 AM [Info] - Saved global script variables.
+4/12/2015 10:33:00 AM [Info] - Saved global script variables.
+4/12/2015 10:38:00 AM [Info] - Saved global script variables.
+4/12/2015 10:43:00 AM [Info] - Saved global script variables.
+4/12/2015 10:48:00 AM [Info] - Saved global script variables.
+4/12/2015 10:53:00 AM [Info] - Saved global script variables.
+4/12/2015 10:58:00 AM [Info] - Saved global script variables.
+4/12/2015 11:03:00 AM [Info] - Saved global script variables.
+4/12/2015 11:08:00 AM [Info] - Saved global script variables.
+4/12/2015 11:13:00 AM [Info] - Saved global script variables.
+4/12/2015 11:15:32 AM [Info] - Connection established from '98.166.158.42:50953.
+4/12/2015 11:16:06 AM [Status] - Creatures currently in region 1: 108
+4/12/2015 11:16:59 AM [Unimplemented] - PacketHandlerManager: Handler for '791B'
+4/12/2015 11:16:59 AM [Debug] - Op: 0000791B, Id: 0010000000000003
+
+4/12/2015 11:17:11 AM [Unimplemented] - CombatAttack: Skill handler or interface for 'GlasGhaibhleannSkill'.
+4/12/2015 11:18:00 AM [Info] - Saved global script variables.
+4/12/2015 11:18:00 AM [Unimplemented] - CombatAttack: Skill handler or interface for 'GlasGhaibhleannSkill'.
+4/12/2015 11:23:00 AM [Info] - Saved global script variables.
+4/12/2015 11:28:00 AM [Info] - Saved global script variables.
+4/12/2015 11:33:00 AM [Info] - Saved global script variables.
+4/12/2015 11:38:00 AM [Info] - Saved global script variables.
+4/12/2015 11:43:00 AM [Info] - Saved global script variables.
+4/12/2015 11:43:27 AM [Error] - There has been a problem while handling '4E34'.
+4/12/2015 11:43:27 AM [Exception] - System.DivideByZeroException: Attempted to divide by zero.
+   at Aura.Shared.Network.ChannelInfo.get_Stress() in c:\Users\CJSPC\aura-master\aura-master\src\Shared\Network\ServerInfo.cs:line 62
+   at Aura.Shared.Network.Sending.Helpers.ServerInfoHelper.AddChannelInfo(Packet packet, ChannelInfo channel, ServerInfoType type) in c:\Users\CJSPC\aura-master\aura-master\src\Shared\Network\Sending\Helpers\ServerInfoHelper.cs:line 52
+   at Aura.Shared.Network.Sending.Helpers.ServerInfoHelper.AddServerInfo(Packet packet, ServerInfo server, ServerInfoType type) in c:\Users\CJSPC\aura-master\aura-master\src\Shared\Network\Sending\Helpers\ServerInfoHelper.cs:line 41
+   at Aura.Channel.Network.Sending.Send.GetChannelListR(ChannelClient client, ServerInfo server) in c:\Users\CJSPC\aura-master\aura-master\src\ChannelServer\Network\Sending\Send.LogInOut.cs:line 117
+   at Aura.Channel.Network.Handlers.ChannelServerHandlers.GetChannelList(ChannelClient client, Packet packet) in c:\Users\CJSPC\aura-master\aura-master\src\ChannelServer\Network\Handlers\LogInOut.cs:line 288
+   at Aura.Shared.Network.PacketHandlerManager`1.Handle(TClient client, Packet packet) in c:\Users\CJSPC\aura-master\aura-master\src\Shared\Network\PacketHandlerManager.cs:line 73
+   at Aura.Channel.Network.Handlers.ChannelServerHandlers.Handle(ChannelClient client, Packet packet) in c:\Users\CJSPC\aura-master\aura-master\src\ChannelServer\Network\Handlers\Base.cs:line 57
+   at Aura.Shared.Network.DefaultServer`1.HandleBuffer(TClient client, Byte[] buffer) in c:\Users\CJSPC\aura-master\aura-master\src\Shared\Network\DefaultServer.cs:line 61
+4/12/2015 11:43:41 AM [Error] - There has been a problem while handling '4E34'.
+4/12/2015 11:43:41 AM [Exception] - System.DivideByZeroException: Attempted to divide by zero.
+   at Aura.Shared.Network.ChannelInfo.get_Stress() in c:\Users\CJSPC\aura-master\aura-master\src\Shared\Network\ServerInfo.cs:line 62
+   at Aura.Shared.Network.Sending.Helpers.ServerInfoHelper.AddChannelInfo(Packet packet, ChannelInfo channel, ServerInfoType type) in c:\Users\CJSPC\aura-master\aura-master\src\Shared\Network\Sending\Helpers\ServerInfoHelper.cs:line 52
+   at Aura.Shared.Network.Sending.Helpers.ServerInfoHelper.AddServerInfo(Packet packet, ServerInfo server, ServerInfoType type) in c:\Users\CJSPC\aura-master\aura-master\src\Shared\Network\Sending\Helpers\ServerInfoHelper.cs:line 41
+   at Aura.Channel.Network.Sending.Send.GetChannelListR(ChannelClient client, ServerInfo server) in c:\Users\CJSPC\aura-master\aura-master\src\ChannelServer\Network\Sending\Send.LogInOut.cs:line 117
+   at Aura.Channel.Network.Handlers.ChannelServerHandlers.GetChannelList(ChannelClient client, Packet packet) in c:\Users\CJSPC\aura-master\aura-master\src\ChannelServer\Network\Handlers\LogInOut.cs:line 288
+   at Aura.Shared.Network.PacketHandlerManager`1.Handle(TClient client, Packet packet) in c:\Users\CJSPC\aura-master\aura-master\src\Shared\Network\PacketHandlerManager.cs:line 73
+   at Aura.Channel.Network.Handlers.ChannelServerHandlers.Handle(ChannelClient client, Packet packet) in c:\Users\CJSPC\aura-master\aura-master\src\ChannelServer\Network\Handlers\Base.cs:line 57
+   at Aura.Shared.Network.DefaultServer`1.HandleBuffer(TClient client, Byte[] buffer) in c:\Users\CJSPC\aura-master\aura-master\src\Shared\Network\DefaultServer.cs:line 61
+4/12/2015 11:43:55 AM [Error] - There has been a problem while handling '4E34'.
+4/12/2015 11:43:55 AM [Exception] - System.DivideByZeroException: Attempted to divide by zero.
+   at Aura.Shared.Network.ChannelInfo.get_Stress() in c:\Users\CJSPC\aura-master\aura-master\src\Shared\Network\ServerInfo.cs:line 62
+   at Aura.Shared.Network.Sending.Helpers.ServerInfoHelper.AddChannelInfo(Packet packet, ChannelInfo channel, ServerInfoType type) in c:\Users\CJSPC\aura-master\aura-master\src\Shared\Network\Sending\Helpers\ServerInfoHelper.cs:line 52
+   at Aura.Shared.Network.Sending.Helpers.ServerInfoHelper.AddServerInfo(Packet packet, ServerInfo server, ServerInfoType type) in c:\Users\CJSPC\aura-master\aura-master\src\Shared\Network\Sending\Helpers\ServerInfoHelper.cs:line 41
+   at Aura.Channel.Network.Sending.Send.GetChannelListR(ChannelClient client, ServerInfo server) in c:\Users\CJSPC\aura-master\aura-master\src\ChannelServer\Network\Sending\Send.LogInOut.cs:line 117
+   at Aura.Channel.Network.Handlers.ChannelServerHandlers.GetChannelList(ChannelClient client, Packet packet) in c:\Users\CJSPC\aura-master\aura-master\src\ChannelServer\Network\Handlers\LogInOut.cs:line 288
+   at Aura.Shared.Network.PacketHandlerManager`1.Handle(TClient client, Packet packet) in c:\Users\CJSPC\aura-master\aura-master\src\Shared\Network\PacketHandlerManager.cs:line 73
+   at Aura.Channel.Network.Handlers.ChannelServerHandlers.Handle(ChannelClient client, Packet packet) in c:\Users\CJSPC\aura-master\aura-master\src\ChannelServer\Network\Handlers\Base.cs:line 57
+   at Aura.Shared.Network.DefaultServer`1.HandleBuffer(TClient client, Byte[] buffer) in c:\Users\CJSPC\aura-master\aura-master\src\Shared\Network\DefaultServer.cs:line 61
+4/12/2015 11:47:09 AM [Unimplemented] - CombatAttack: Skill handler or interface for 'GlasGhaibhleannSkill'.
+4/12/2015 11:48:00 AM [Info] - Saved global script variables.
+4/12/2015 11:53:00 AM [Info] - Saved global script variables.
+4/12/2015 11:58:00 AM [Info] - Saved global script variables.
+4/12/2015 11:58:13 AM [Unimplemented] - PacketHandlerManager: Handler for '791B'
+4/12/2015 11:58:13 AM [Debug] - Op: 0000791B, Id: 0010000000000003
+

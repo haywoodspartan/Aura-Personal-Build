@@ -1,0 +1,1 @@
+C:\Users\CJSPC\aura-master\aura-master\bin\Debug\LoginServer.exe.config

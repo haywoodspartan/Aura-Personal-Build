@@ -1,0 +1,12 @@
+C:\Users\CJSPC\aura-master\aura-master\bin\Release\WebServer.exe.config
+C:\Users\CJSPC\aura-master\aura-master\bin\Release\WebServer.exe
+C:\Users\CJSPC\aura-master\aura-master\bin\Release\WebServer.pdb
+C:\Users\CJSPC\aura-master\aura-master\src\WebServer\obj\Release\WebServer.csprojResolveAssemblyReference.cache
+C:\Users\CJSPC\aura-master\aura-master\src\WebServer\obj\Release\WebServer.exe
+C:\Users\CJSPC\aura-master\aura-master\src\WebServer\obj\Release\WebServer.pdb
+C:\Users\Administrator\Desktop\aura-master\Hell\bin\Release\WebServer.exe.config
+C:\Users\Administrator\Desktop\aura-master\Hell\bin\Release\WebServer.exe
+C:\Users\Administrator\Desktop\aura-master\Hell\bin\Release\WebServer.pdb
+C:\Users\Administrator\Desktop\aura-master\Hell\src\WebServer\obj\Release\WebServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\aura-master\Hell\src\WebServer\obj\Release\WebServer.exe
+C:\Users\Administrator\Desktop\aura-master\Hell\src\WebServer\obj\Release\WebServer.pdb

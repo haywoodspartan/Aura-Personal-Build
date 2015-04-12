@@ -1,0 +1,21 @@
+4/12/2015 2:56:44 AM [Warning] - Using the default inter server password is risky, please change it in 'inter.conf'.
+4/12/2015 2:56:44 AM [Info] - Initializing database...
+4/12/2015 2:56:44 AM [Info] - Checking for updates...
+4/12/2015 2:56:44 AM [Info] - Loading data...
+4/12/2015 2:56:44 AM [Info] -   done loading 20 entries from ancient_drops.txt
+4/12/2015 2:56:44 AM [Info] -   done loading 380 entries from races.txt
+4/12/2015 2:56:44 AM [Info] -   done loading 3 entries from stats_base.txt
+4/12/2015 2:56:44 AM [Info] -   done loading 9 entries from charcards.txt
+4/12/2015 2:56:45 AM [Info] -   done loading 112 entries from colormap.dat
+4/12/2015 2:56:45 AM [Info] -   done loading 14608 entries from items.txt
+4/12/2015 2:56:45 AM [Info] -   done loading 28 entries from chairs.txt
+4/12/2015 2:56:45 AM [Info] -   done loading 278 entries from pets.txt
+4/12/2015 2:56:45 AM [Info] - Loading localization (us)...
+4/12/2015 2:56:45 AM [Info] - Loading Web API...
+4/12/2015 2:56:45 AM [Info] - Web API listening on 0.0.0.0:10999
+4/12/2015 2:56:45 AM [Status] - Server ready, listening on 0.0.0.0:11000.
+4/12/2015 2:56:45 AM [Info] - Type 'help' for a list of console commands.
+4/12/2015 2:57:09 AM [Info] - Connection established from '127.0.0.1:50624.
+4/12/2015 2:57:10 AM [Info] - New channel registered: Heaven@Aura
+4/12/2015 3:01:47 AM [Info] - Connection established from '206.221.182.8:51115.
+4/12/2015 3:01:49 AM [Info] - New channel registered: Earth@Aura

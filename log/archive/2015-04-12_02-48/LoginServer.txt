@@ -1,0 +1,4 @@
+4/12/2015 2:48:27 AM [Warning] - Using the default inter server password is risky, please change it in 'inter.conf'.
+4/12/2015 2:48:27 AM [Info] - Initializing database...
+4/12/2015 2:48:27 AM [Error] - Unable to open database connection. (Authentication to host '127.0.0.1' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'localhost' (using password: NO))
+4/12/2015 2:48:27 AM [Info] - Press Enter to exit.

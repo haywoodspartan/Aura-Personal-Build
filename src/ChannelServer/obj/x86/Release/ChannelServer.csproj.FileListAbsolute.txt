@@ -1,0 +1,12 @@
+C:\Users\CJSPC\aura-master\aura-master\bin\Release\ChannelServer.exe.config
+C:\Users\CJSPC\aura-master\aura-master\bin\Release\ChannelServer.exe
+C:\Users\CJSPC\aura-master\aura-master\bin\Release\ChannelServer.pdb
+C:\Users\CJSPC\aura-master\aura-master\src\ChannelServer\obj\x86\Release\ChannelServer.csprojResolveAssemblyReference.cache
+C:\Users\CJSPC\aura-master\aura-master\src\ChannelServer\obj\x86\Release\ChannelServer.exe
+C:\Users\CJSPC\aura-master\aura-master\src\ChannelServer\obj\x86\Release\ChannelServer.pdb
+C:\Users\Administrator\Desktop\aura-master\Hell\bin\Release\ChannelServer.exe.config
+C:\Users\Administrator\Desktop\aura-master\Hell\bin\Release\ChannelServer.exe
+C:\Users\Administrator\Desktop\aura-master\Hell\bin\Release\ChannelServer.pdb
+C:\Users\Administrator\Desktop\aura-master\Hell\src\ChannelServer\obj\x86\Release\ChannelServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\aura-master\Hell\src\ChannelServer\obj\x86\Release\ChannelServer.exe
+C:\Users\Administrator\Desktop\aura-master\Hell\src\ChannelServer\obj\x86\Release\ChannelServer.pdb

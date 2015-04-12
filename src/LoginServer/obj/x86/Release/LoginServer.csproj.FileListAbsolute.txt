@@ -1,0 +1,11 @@
+C:\Users\CJSPC\aura-master\aura-master\bin\Release\LoginServer.exe.config
+C:\Users\CJSPC\aura-master\aura-master\bin\Release\LoginServer.exe
+C:\Users\CJSPC\aura-master\aura-master\bin\Release\LoginServer.pdb
+C:\Users\CJSPC\aura-master\aura-master\src\LoginServer\obj\x86\Release\LoginServer.exe
+C:\Users\CJSPC\aura-master\aura-master\src\LoginServer\obj\x86\Release\LoginServer.pdb
+C:\Users\Administrator\Desktop\aura-master\Hell\bin\Release\LoginServer.exe.config
+C:\Users\Administrator\Desktop\aura-master\Hell\src\LoginServer\obj\x86\Release\LoginServer.exe
+C:\Users\Administrator\Desktop\aura-master\Hell\src\LoginServer\obj\x86\Release\LoginServer.pdb
+C:\Users\Administrator\Desktop\aura-master\Hell\bin\Release\LoginServer.exe
+C:\Users\Administrator\Desktop\aura-master\Hell\bin\Release\LoginServer.pdb
+C:\Users\Administrator\Desktop\aura-master\Hell\src\LoginServer\obj\x86\Release\LoginServer.csprojResolveAssemblyReference.cache

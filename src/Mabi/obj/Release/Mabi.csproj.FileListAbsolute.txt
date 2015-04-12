@@ -1,0 +1,10 @@
+C:\Users\CJSPC\aura-master\aura-master\bin\Release\Mabi.dll
+C:\Users\CJSPC\aura-master\aura-master\bin\Release\Mabi.pdb
+C:\Users\CJSPC\aura-master\aura-master\src\Mabi\obj\Release\Mabi.csprojResolveAssemblyReference.cache
+C:\Users\CJSPC\aura-master\aura-master\src\Mabi\obj\Release\Mabi.dll
+C:\Users\CJSPC\aura-master\aura-master\src\Mabi\obj\Release\Mabi.pdb
+C:\Users\Administrator\Desktop\aura-master\Hell\bin\Release\Mabi.dll
+C:\Users\Administrator\Desktop\aura-master\Hell\bin\Release\Mabi.pdb
+C:\Users\Administrator\Desktop\aura-master\Hell\src\Mabi\obj\Release\Mabi.dll
+C:\Users\Administrator\Desktop\aura-master\Hell\src\Mabi\obj\Release\Mabi.pdb
+C:\Users\Administrator\Desktop\aura-master\Hell\src\Mabi\obj\Release\Mabi.csprojResolveAssemblyReference.cache
