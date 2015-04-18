@@ -6,9 +6,13 @@ using Aura.Channel.Util;
 using Aura.Shared.Network;
 using Aura.Shared.Util;
 using Aura.Channel.World;
-using Aura.Mabi.Const;
 using Aura.Channel.World.Inventory;
 using Aura.Mabi.Network;
+using Aura.Shared.Mabi.Const;
+using CreatureStatesEx = Aura.Mabi.Const.CreatureStatesEx;
+using PetAction = Aura.Mabi.Const.PetAction;
+using Pocket = Aura.Mabi.Const.Pocket;
+using SpawnEffect = Aura.Mabi.Const.SpawnEffect;
 
 namespace Aura.Channel.Network.Handlers
 {

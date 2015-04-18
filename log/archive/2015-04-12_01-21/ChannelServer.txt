@@ -1,47 +1,69 @@
-4/12/2015 1:21:24 PM [Warning] - Using the default inter server password is risky, please change it in 'inter.conf'.
-4/12/2015 1:21:24 PM [Info] - Initializing database...
-4/12/2015 1:21:25 PM [Info] - Loading data...
-4/12/2015 1:21:25 PM [Info] -   done loading 20 entries from ancient_drops.txt
-4/12/2015 1:21:25 PM [Info] -   done loading 380 entries from races.txt
-4/12/2015 1:21:25 PM [Info] -   done loading 3 entries from stats_base.txt
-4/12/2015 1:21:25 PM [Info] -   done loading 3 entries from stats_levelup.txt
-4/12/2015 1:21:25 PM [Info] -   done loading 3 entries from stats_ageup.txt
-4/12/2015 1:21:25 PM [Info] -   done loading 55 entries from motions.txt
-4/12/2015 1:21:25 PM [Info] -   done loading 9 entries from charcards.txt
-4/12/2015 1:21:25 PM [Info] -   done loading 112 entries from colormap.dat
-4/12/2015 1:21:25 PM [Info] -   done loading 14608 entries from items.txt
-4/12/2015 1:21:25 PM [Info] -   done loading 28 entries from chairs.txt
-4/12/2015 1:21:26 PM [Info] -   done loading 545 entries from skills.txt
-4/12/2015 1:21:26 PM [Info] -   done loading 387 entries from regions.txt
-4/12/2015 1:21:26 PM [Info] -   done loading 387 entries from regioninfo.dat
-4/12/2015 1:21:26 PM [Info] -   done loading 607 entries from shamala.txt
-4/12/2015 1:21:26 PM [Info] -   done loading 3 entries from prop_drops.txt
-4/12/2015 1:21:26 PM [Info] -   done loading 200 entries from exp.txt
-4/12/2015 1:21:26 PM [Info] -   done loading 278 entries from pets.txt
-4/12/2015 1:21:26 PM [Info] -   done loading 13 entries from weathertables.txt
-4/12/2015 1:21:26 PM [Info] -   done loading 27 entries from weather.txt
-4/12/2015 1:21:26 PM [Info] -   done loading 3822 entries from keywords.txt
-4/12/2015 1:21:26 PM [Info] -   done loading 778 entries from titles.txt
-4/12/2015 1:21:26 PM [Info] -   done loading 2091 entries from itemupgrades.txt
-4/12/2015 1:21:26 PM [Info] -   done loading 6101 entries from props.txt
-4/12/2015 1:21:26 PM [Info] -   done loading 156 entries from collecting.txt
-4/12/2015 1:21:26 PM [Info] - Loading localization (us)...
-4/12/2015 1:21:26 PM [Info] - Initializing world...
-4/12/2015 1:21:27 PM [Info] -   done loading 387 regions.
-4/12/2015 1:21:27 PM [Info] - Loading AI scripts...
-4/12/2015 1:21:27 PM [Info] - Done loading AI scripts.
-4/12/2015 1:21:27 PM [Info] - Loading item scripts...
-4/12/2015 1:21:28 PM [Info] - Done loading item scripts.
-4/12/2015 1:21:28 PM [Info] - Loading scripts, this might take a few minutes...
-4/12/2015 1:21:28 PM 
-4/12/2015 1:21:28 PM [Info] - Done loading 98 scripts (of 98).
-4/12/2015 1:21:28 PM [Info] - Spawning creatures...
-4/12/2015 1:21:28 PM [Info] - Done spawning 99 creatures.
-4/12/2015 1:21:28 PM [Info] - Loading skill handlers...
-4/12/2015 1:21:28 PM [Info] - Done loading 29 skill handlers.
-4/12/2015 1:21:28 PM [Error] - Unable to set up socket; perhaps you're already running a server?
-4/12/2015 1:21:28 PM [Exception] - System.Net.Sockets.SocketException (0x80004005): Only one usage of each socket address (protocol/network address/port) is normally permitted
-   at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
-   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
-   at Aura.Shared.Network.BaseServer`1.Start(IPEndPoint endPoint) in c:\Users\Administrator\Documents\GitHub\Aura-Personal\src\Shared\Network\BaseServer.cs:line 80
-4/12/2015 1:21:28 PM [Info] - Press Enter to exit.
+4/12/2015 12:42:27 PM [Warning] - Using the default inter server password is risky, please change it in 'inter.conf'.
+4/12/2015 12:42:27 PM [Info] - Initializing database...
+4/12/2015 12:42:27 PM [Info] - Loading data...
+4/12/2015 12:42:27 PM [Info] -   done loading 20 entries from ancient_drops.txt
+4/12/2015 12:42:27 PM [Info] -   done loading 380 entries from races.txt
+4/12/2015 12:42:27 PM [Info] -   done loading 3 entries from stats_base.txt
+4/12/2015 12:42:27 PM [Info] -   done loading 3 entries from stats_levelup.txt
+4/12/2015 12:42:27 PM [Info] -   done loading 3 entries from stats_ageup.txt
+4/12/2015 12:42:27 PM [Info] -   done loading 55 entries from motions.txt
+4/12/2015 12:42:27 PM [Info] -   done loading 9 entries from charcards.txt
+4/12/2015 12:42:27 PM [Info] -   done loading 112 entries from colormap.dat
+4/12/2015 12:42:28 PM [Info] -   done loading 14608 entries from items.txt
+4/12/2015 12:42:28 PM [Info] -   done loading 28 entries from chairs.txt
+4/12/2015 12:42:28 PM [Info] -   done loading 545 entries from skills.txt
+4/12/2015 12:42:28 PM [Info] -   done loading 387 entries from regions.txt
+4/12/2015 12:42:28 PM [Info] -   done loading 387 entries from regioninfo.dat
+4/12/2015 12:42:28 PM [Info] -   done loading 607 entries from shamala.txt
+4/12/2015 12:42:28 PM [Info] -   done loading 3 entries from prop_drops.txt
+4/12/2015 12:42:28 PM [Info] -   done loading 200 entries from exp.txt
+4/12/2015 12:42:28 PM [Info] -   done loading 278 entries from pets.txt
+4/12/2015 12:42:28 PM [Info] -   done loading 13 entries from weathertables.txt
+4/12/2015 12:42:28 PM [Info] -   done loading 27 entries from weather.txt
+4/12/2015 12:42:28 PM [Info] -   done loading 3822 entries from keywords.txt
+4/12/2015 12:42:28 PM [Info] -   done loading 778 entries from titles.txt
+4/12/2015 12:42:28 PM [Info] -   done loading 2091 entries from itemupgrades.txt
+4/12/2015 12:42:28 PM [Info] -   done loading 6101 entries from props.txt
+4/12/2015 12:42:28 PM [Info] -   done loading 156 entries from collecting.txt
+4/12/2015 12:42:28 PM [Info] - Loading localization (us)...
+4/12/2015 12:42:28 PM [Info] - Initializing world...
+4/12/2015 12:42:29 PM [Info] -   done loading 387 regions.
+4/12/2015 12:42:29 PM [Info] - Loading AI scripts...
+4/12/2015 12:42:29 PM [Info] - Done loading AI scripts.
+4/12/2015 12:42:29 PM [Info] - Loading item scripts...
+4/12/2015 12:42:30 PM [Info] - Done loading item scripts.
+4/12/2015 12:42:30 PM [Info] - Loading scripts, this might take a few minutes...
+4/12/2015 12:42:30 PM 
+4/12/2015 12:42:30 PM [Info] - Done loading 98 scripts (of 98).
+4/12/2015 12:42:30 PM [Info] - Spawning creatures...
+4/12/2015 12:42:30 PM [Info] - Done spawning 99 creatures.
+4/12/2015 12:42:30 PM [Info] - Loading skill handlers...
+4/12/2015 12:42:30 PM [Info] - Done loading 29 skill handlers.
+4/12/2015 12:42:30 PM [Status] - Server ready, listening on 0.0.0.0:11022.
+4/12/2015 12:42:30 PM 
+4/12/2015 12:42:30 PM [Info] - Trying to connect to login server at 127.0.0.1:11000...
+4/12/2015 12:42:31 PM [Info] - Connection to login server at '127.0.0.1:11000' established.
+4/12/2015 12:42:31 PM 
+4/12/2015 12:42:31 PM [Info] - Type 'help' for a list of console commands.
+4/12/2015 12:42:36 PM [Info] - Connection established from '98.166.158.42:51491.
+4/12/2015 12:42:40 PM [Status] - Creatures currently in region 1: 108
+4/12/2015 12:46:00 PM [Info] - Saved global script variables.
+4/12/2015 12:51:00 PM [Info] - Saved global script variables.
+4/12/2015 12:56:00 PM [Info] - Saved global script variables.
+4/12/2015 1:01:00 PM [Info] - Saved global script variables.
+4/12/2015 1:06:00 PM [Info] - Saved global script variables.
+4/12/2015 1:11:00 PM [Info] - Saved global script variables.
+4/12/2015 1:13:24 PM [Error] - There has been a problem while handling '4E34'.
+4/12/2015 1:13:24 PM [Exception] - System.DivideByZeroException: Attempted to divide by zero.
+   at Aura.Shared.Network.ChannelInfo.get_Stress() in c:\Users\Administrator\Desktop\aura-master\Hell\src\Shared\Network\ServerInfo.cs:line 62
+   at Aura.Shared.Network.Sending.Helpers.ServerInfoHelper.AddChannelInfo(Packet packet, ChannelInfo channel, ServerInfoType type) in c:\Users\Administrator\Desktop\aura-master\Hell\src\Shared\Network\Sending\Helpers\ServerInfoHelper.cs:line 52
+   at Aura.Shared.Network.Sending.Helpers.ServerInfoHelper.AddServerInfo(Packet packet, ServerInfo server, ServerInfoType type) in c:\Users\Administrator\Desktop\aura-master\Hell\src\Shared\Network\Sending\Helpers\ServerInfoHelper.cs:line 41
+   at Aura.Channel.Network.Sending.Send.GetChannelListR(ChannelClient client, ServerInfo server) in c:\Users\Administrator\Desktop\aura-master\Hell\src\ChannelServer\Network\Sending\Send.LogInOut.cs:line 117
+   at Aura.Channel.Network.Handlers.ChannelServerHandlers.GetChannelList(ChannelClient client, Packet packet) in c:\Users\Administrator\Desktop\aura-master\Hell\src\ChannelServer\Network\Handlers\LogInOut.cs:line 288
+   at Aura.Shared.Network.PacketHandlerManager`1.Handle(TClient client, Packet packet) in c:\Users\Administrator\Desktop\aura-master\Hell\src\Shared\Network\PacketHandlerManager.cs:line 73
+   at Aura.Channel.Network.Handlers.ChannelServerHandlers.Handle(ChannelClient client, Packet packet) in c:\Users\Administrator\Desktop\aura-master\Hell\src\ChannelServer\Network\Handlers\Base.cs:line 57
+   at Aura.Shared.Network.DefaultServer`1.HandleBuffer(TClient client, Byte[] buffer) in c:\Users\Administrator\Desktop\aura-master\Hell\src\Shared\Network\DefaultServer.cs:line 61
+4/12/2015 1:13:30 PM [Info] - Connection closed from '98.166.158.42:51491.
+4/12/2015 1:13:30 PM [Status] - Creatures currently in region 1: 107
+4/12/2015 1:16:00 PM [Info] - Saved global script variables.
+4/12/2015 1:21:00 PM [Info] - Saved global script variables.

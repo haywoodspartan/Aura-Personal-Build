@@ -1,1 +1,7 @@
 C:\Users\CJSPC\aura-master\aura-master\bin\Debug\LoginServer.exe.config
+C:\Users\Administrator\Desktop\aura-master\Housing Channel\bin\Debug\LoginServer.exe.config
+C:\Users\Administrator\Desktop\aura-master\Housing Channel\bin\Debug\LoginServer.exe
+C:\Users\Administrator\Desktop\aura-master\Housing Channel\bin\Debug\LoginServer.pdb
+C:\Users\Administrator\Desktop\aura-master\Housing Channel\src\LoginServer\obj\x86\Debug\LoginServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\aura-master\Housing Channel\src\LoginServer\obj\x86\Debug\LoginServer.exe
+C:\Users\Administrator\Desktop\aura-master\Housing Channel\src\LoginServer\obj\x86\Debug\LoginServer.pdb

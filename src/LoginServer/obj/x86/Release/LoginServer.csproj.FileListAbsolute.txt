@@ -9,9 +9,9 @@ C:\Users\Administrator\Desktop\aura-master\Hell\src\LoginServer\obj\x86\Release\
 C:\Users\Administrator\Desktop\aura-master\Hell\bin\Release\LoginServer.exe
 C:\Users\Administrator\Desktop\aura-master\Hell\bin\Release\LoginServer.pdb
 C:\Users\Administrator\Desktop\aura-master\Hell\src\LoginServer\obj\x86\Release\LoginServer.csprojResolveAssemblyReference.cache
-C:\Users\Administrator\Documents\GitHub\Aura-Personal\bin\Release\LoginServer.exe.config
-C:\Users\Administrator\Documents\GitHub\Aura-Personal\src\LoginServer\obj\x86\Release\LoginServer.exe
-C:\Users\Administrator\Documents\GitHub\Aura-Personal\src\LoginServer\obj\x86\Release\LoginServer.pdb
-C:\Users\Administrator\Documents\GitHub\Aura-Personal\bin\Release\LoginServer.exe
-C:\Users\Administrator\Documents\GitHub\Aura-Personal\bin\Release\LoginServer.pdb
-C:\Users\Administrator\Documents\GitHub\Aura-Personal\src\LoginServer\obj\x86\Release\LoginServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\aura-master\Housing Channel\bin\Release\LoginServer.exe.config
+C:\Users\Administrator\Desktop\aura-master\Housing Channel\bin\Release\LoginServer.exe
+C:\Users\Administrator\Desktop\aura-master\Housing Channel\bin\Release\LoginServer.pdb
+C:\Users\Administrator\Desktop\aura-master\Housing Channel\src\LoginServer\obj\x86\Release\LoginServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\aura-master\Housing Channel\src\LoginServer\obj\x86\Release\LoginServer.exe
+C:\Users\Administrator\Desktop\aura-master\Housing Channel\src\LoginServer\obj\x86\Release\LoginServer.pdb

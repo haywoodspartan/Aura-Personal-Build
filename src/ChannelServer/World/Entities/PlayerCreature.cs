@@ -3,11 +3,12 @@
 
 using Aura.Channel.Network.Sending;
 using Aura.Data;
-using Aura.Mabi.Const;
 using Aura.Shared.Util;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using Aura.Shared.Mabi.Const;
+using CreatureStates = Aura.Mabi.Const.CreatureStates;
 
 namespace Aura.Channel.World.Entities
 {

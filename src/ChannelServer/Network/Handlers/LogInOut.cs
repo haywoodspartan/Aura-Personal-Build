@@ -7,11 +7,14 @@ using Aura.Channel.Network.Sending;
 using Aura.Shared.Network;
 using Aura.Shared.Util;
 using Aura.Channel.World;
-using Aura.Mabi.Const;
 using Aura.Channel.World.Entities;
 using System;
 using Aura.Mabi;
 using Aura.Mabi.Network;
+using Aura.Shared.Mabi.Const;
+using CreatureStates = Aura.Mabi.Const.CreatureStates;
+using MabiId = Aura.Mabi.Const.MabiId;
+using SpawnEffect = Aura.Mabi.Const.SpawnEffect;
 
 namespace Aura.Channel.Network.Handlers
 {

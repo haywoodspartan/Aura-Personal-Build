@@ -10,6 +10,9 @@ C:\Users\Administrator\Desktop\aura-master\Hell\bin\Release\ChannelServer.pdb
 C:\Users\Administrator\Desktop\aura-master\Hell\src\ChannelServer\obj\x86\Release\ChannelServer.csprojResolveAssemblyReference.cache
 C:\Users\Administrator\Desktop\aura-master\Hell\src\ChannelServer\obj\x86\Release\ChannelServer.exe
 C:\Users\Administrator\Desktop\aura-master\Hell\src\ChannelServer\obj\x86\Release\ChannelServer.pdb
-C:\Users\Administrator\Documents\GitHub\Aura-Personal\src\ChannelServer\obj\x86\Release\ChannelServer.csprojResolveAssemblyReference.cache
-C:\Users\Administrator\Documents\GitHub\Aura-Personal\src\ChannelServer\obj\x86\Release\ChannelServer.exe
-C:\Users\Administrator\Documents\GitHub\Aura-Personal\src\ChannelServer\obj\x86\Release\ChannelServer.pdb
+C:\Users\Administrator\Desktop\aura-master\Housing Channel\bin\Release\ChannelServer.exe.config
+C:\Users\Administrator\Desktop\aura-master\Housing Channel\src\ChannelServer\obj\x86\Release\ChannelServer.exe
+C:\Users\Administrator\Desktop\aura-master\Housing Channel\src\ChannelServer\obj\x86\Release\ChannelServer.pdb
+C:\Users\Administrator\Desktop\aura-master\Housing Channel\src\ChannelServer\obj\x86\Release\ChannelServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\aura-master\Housing Channel\bin\Release\ChannelServer.exe
+C:\Users\Administrator\Desktop\aura-master\Housing Channel\bin\Release\ChannelServer.pdb

@@ -10,9 +10,9 @@ C:\Users\Administrator\Desktop\aura-master\Hell\bin\Release\WebServer.pdb
 C:\Users\Administrator\Desktop\aura-master\Hell\src\WebServer\obj\Release\WebServer.csprojResolveAssemblyReference.cache
 C:\Users\Administrator\Desktop\aura-master\Hell\src\WebServer\obj\Release\WebServer.exe
 C:\Users\Administrator\Desktop\aura-master\Hell\src\WebServer\obj\Release\WebServer.pdb
-C:\Users\Administrator\Documents\GitHub\Aura-Personal\bin\Release\WebServer.exe.config
-C:\Users\Administrator\Documents\GitHub\Aura-Personal\bin\Release\WebServer.exe
-C:\Users\Administrator\Documents\GitHub\Aura-Personal\bin\Release\WebServer.pdb
-C:\Users\Administrator\Documents\GitHub\Aura-Personal\src\WebServer\obj\Release\WebServer.csprojResolveAssemblyReference.cache
-C:\Users\Administrator\Documents\GitHub\Aura-Personal\src\WebServer\obj\Release\WebServer.exe
-C:\Users\Administrator\Documents\GitHub\Aura-Personal\src\WebServer\obj\Release\WebServer.pdb
+C:\Users\Administrator\Desktop\aura-master\Housing Channel\bin\Release\WebServer.exe.config
+C:\Users\Administrator\Desktop\aura-master\Housing Channel\bin\Release\WebServer.exe
+C:\Users\Administrator\Desktop\aura-master\Housing Channel\bin\Release\WebServer.pdb
+C:\Users\Administrator\Desktop\aura-master\Housing Channel\src\WebServer\obj\Release\WebServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\aura-master\Housing Channel\src\WebServer\obj\Release\WebServer.exe
+C:\Users\Administrator\Desktop\aura-master\Housing Channel\src\WebServer\obj\Release\WebServer.pdb

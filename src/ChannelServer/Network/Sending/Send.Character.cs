@@ -3,13 +3,14 @@
 
 using System;
 using Aura.Channel.World.Entities;
-using Aura.Mabi.Const;
 using Aura.Shared.Network;
 using Aura.Shared.Util;
 using Aura.Channel.World.Entities.Creatures;
 using System.Globalization;
 using Aura.Channel.Network.Sending.Helpers;
 using Aura.Mabi.Network;
+using Aura.Shared.Mabi.Const;
+using MabiId = Aura.Mabi.Const.MabiId;
 
 namespace Aura.Channel.Network.Sending
 {

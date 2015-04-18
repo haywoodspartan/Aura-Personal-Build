@@ -6,7 +6,7 @@ namespace Aura.Channel.World.Entities
 	/// <summary>
 	/// Normal character
 	/// </summary>
-	public class Character : PlayerCreature
+	public partial class Character : PlayerCreature
 	{
 		/// <summary>
 		/// Returns whether creature is able to learn skills automatically

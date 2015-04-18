@@ -45,10 +45,6 @@ namespace Aura.Channel.Skills.Magic
         protected override string SpecialWandTag { get { return "ice_wand"; } }
 
         /// <summary>
-        /// Stri
-        /// </summary>
-
-        /// <summary>
 		/// Actions to be done before the combat action pack is handled.
 		/// </summary>
 		/// <param name="attacker"></param>
@@ -78,9 +74,9 @@ namespace Aura.Channel.Skills.Magic
         /// <param name="attacker"></param>
         /// <param name="skill"></param>
         /// <returns></returns>
-        protected object EffectExplosionRange(AttackerAction attacker, Skill skill)
+        protected object GetExplosionRange(AttackerAction attacker, Skill skill)
         {
-            var range = attacker.EffectExplosionRange(skill, skill.RankData.Var4);
+            var range = attacker.GetExplosionRange(skill, skill.RankData.Var4);
 
             return range;
         }
